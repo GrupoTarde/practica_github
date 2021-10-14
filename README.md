@@ -1,5 +1,5 @@
 # practica_github
 
-# modificación por joaquin
+# modificación por Chicho
 
 #~modificación para la rama de prueba
